@@ -24,9 +24,303 @@
     <ClInclude Include="targetver.h">
       <Filter>Header Files</Filter>
     </ClInclude>
+    <ClInclude Include="MetaBall.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="VolTrail.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="VolFire.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="VolDust.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="HeatHaze.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="VolSplash.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="LED.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="MotionBlur.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="Caustics.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="VFX.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="DoF.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="FishEye.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="SunGlare.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="VolLight.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="SkyDome.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="LensFlare.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="VolSpark.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="Atom.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="Emitter.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="GunShot.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="VolDecal.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="VolBlood.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="Fluid.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="Gas.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="Nuke.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="PullDown.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="Aerial.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="Neon.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="Laser.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="RadialBlur.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="AfterBurn.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="RimLight.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="VolMyst.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="VolFog.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="Pulsar.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="Morph.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="Warp.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="VolShadow.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="Thunder.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="Tornado.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="Wind.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="Mirage.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="SonicBlast.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="Shake.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="HUD.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="NightVision.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="Halo.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="Glow.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="Bloom.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="stdafx.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="MetaBall.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="VolTrail.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="VolFire.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="VolDust.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="HeatHaze.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="VolSplash.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="LED.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="MotionBlur.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="Caustics.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="VFX.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="DoF.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="FishEye.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="SunGlare.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="VolLight.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="SkyDome.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="LensFlare.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="VolSpark.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="Atom.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="Emitter.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="GunShot.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="VolDecal.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="VolBlood.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="Fluid.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="Gas.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="Nuke.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="PullDown.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="Aerial.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="Neon.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="Laser.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="RadialBlur.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="AfterBurn.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="RimLight.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="VolMyst.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="VolFog.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="Pulsar.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="Morph.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="Warp.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="VolShadow.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="Thunder.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="Tornado.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="Wind.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="Mirage.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="SonicBlast.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="Shake.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="HUD.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="NightVision.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="Halo.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="Glow.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="Bloom.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
   </ItemGroup>

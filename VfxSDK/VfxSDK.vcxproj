@@ -130,16 +130,114 @@
     <Text Include="ReadMe.txt" />
   </ItemGroup>
   <ItemGroup>
+    <ClInclude Include="Aerial.h" />
+    <ClInclude Include="AfterBurn.h" />
+    <ClInclude Include="Atom.h" />
+    <ClInclude Include="Bloom.h" />
+    <ClInclude Include="Caustics.h" />
+    <ClInclude Include="DoF.h" />
+    <ClInclude Include="Emitter.h" />
+    <ClInclude Include="FishEye.h" />
+    <ClInclude Include="Fluid.h" />
+    <ClInclude Include="Gas.h" />
+    <ClInclude Include="Glow.h" />
+    <ClInclude Include="GunShot.h" />
+    <ClInclude Include="Halo.h" />
+    <ClInclude Include="HeatHaze.h" />
+    <ClInclude Include="HUD.h" />
+    <ClInclude Include="Laser.h" />
+    <ClInclude Include="LED.h" />
+    <ClInclude Include="LensFlare.h" />
+    <ClInclude Include="MetaBall.h" />
+    <ClInclude Include="Mirage.h" />
+    <ClInclude Include="Morph.h" />
+    <ClInclude Include="MotionBlur.h" />
+    <ClInclude Include="Neon.h" />
+    <ClInclude Include="NightVision.h" />
+    <ClInclude Include="Nuke.h" />
+    <ClInclude Include="PullDown.h" />
+    <ClInclude Include="Pulsar.h" />
+    <ClInclude Include="RadialBlur.h" />
+    <ClInclude Include="RimLight.h" />
+    <ClInclude Include="Shake.h" />
+    <ClInclude Include="SkyDome.h" />
+    <ClInclude Include="SonicBlast.h" />
     <ClInclude Include="stdafx.h" />
+    <ClInclude Include="SunGlare.h" />
     <ClInclude Include="targetver.h" />
+    <ClInclude Include="Thunder.h" />
+    <ClInclude Include="Tornado.h" />
+    <ClInclude Include="VFX.h" />
+    <ClInclude Include="VolBlood.h" />
+    <ClInclude Include="VolDecal.h" />
+    <ClInclude Include="VolDust.h" />
+    <ClInclude Include="VolFire.h" />
+    <ClInclude Include="VolFog.h" />
+    <ClInclude Include="VolLight.h" />
+    <ClInclude Include="VolMyst.h" />
+    <ClInclude Include="VolShadow.h" />
+    <ClInclude Include="VolSpark.h" />
+    <ClInclude Include="VolSplash.h" />
+    <ClInclude Include="VolTrail.h" />
+    <ClInclude Include="Warp.h" />
+    <ClInclude Include="Wind.h" />
   </ItemGroup>
   <ItemGroup>
+    <ClCompile Include="Aerial.cpp" />
+    <ClCompile Include="AfterBurn.cpp" />
+    <ClCompile Include="Atom.cpp" />
+    <ClCompile Include="Bloom.cpp" />
+    <ClCompile Include="Caustics.cpp" />
+    <ClCompile Include="DoF.cpp" />
+    <ClCompile Include="Emitter.cpp" />
+    <ClCompile Include="FishEye.cpp" />
+    <ClCompile Include="Fluid.cpp" />
+    <ClCompile Include="Gas.cpp" />
+    <ClCompile Include="Glow.cpp" />
+    <ClCompile Include="GunShot.cpp" />
+    <ClCompile Include="Halo.cpp" />
+    <ClCompile Include="HeatHaze.cpp" />
+    <ClCompile Include="HUD.cpp" />
+    <ClCompile Include="Laser.cpp" />
+    <ClCompile Include="LED.cpp" />
+    <ClCompile Include="LensFlare.cpp" />
+    <ClCompile Include="MetaBall.cpp" />
+    <ClCompile Include="Mirage.cpp" />
+    <ClCompile Include="Morph.cpp" />
+    <ClCompile Include="MotionBlur.cpp" />
+    <ClCompile Include="Neon.cpp" />
+    <ClCompile Include="NightVision.cpp" />
+    <ClCompile Include="Nuke.cpp" />
+    <ClCompile Include="PullDown.cpp" />
+    <ClCompile Include="Pulsar.cpp" />
+    <ClCompile Include="RadialBlur.cpp" />
+    <ClCompile Include="RimLight.cpp" />
+    <ClCompile Include="Shake.cpp" />
+    <ClCompile Include="SkyDome.cpp" />
+    <ClCompile Include="SonicBlast.cpp" />
     <ClCompile Include="stdafx.cpp">
       <PrecompiledHeader Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'">Create</PrecompiledHeader>
       <PrecompiledHeader Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">Create</PrecompiledHeader>
       <PrecompiledHeader Condition="'$(Configuration)|$(Platform)'=='Release|Win32'">Create</PrecompiledHeader>
       <PrecompiledHeader Condition="'$(Configuration)|$(Platform)'=='Release|x64'">Create</PrecompiledHeader>
     </ClCompile>
+    <ClCompile Include="SunGlare.cpp" />
+    <ClCompile Include="Thunder.cpp" />
+    <ClCompile Include="Tornado.cpp" />
+    <ClCompile Include="VFX.cpp" />
+    <ClCompile Include="VolBlood.cpp" />
+    <ClCompile Include="VolDecal.cpp" />
+    <ClCompile Include="VolDust.cpp" />
+    <ClCompile Include="VolFire.cpp" />
+    <ClCompile Include="VolFog.cpp" />
+    <ClCompile Include="VolLight.cpp" />
+    <ClCompile Include="VolMyst.cpp" />
+    <ClCompile Include="VolShadow.cpp" />
+    <ClCompile Include="VolSpark.cpp" />
+    <ClCompile Include="VolSplash.cpp" />
+    <ClCompile Include="VolTrail.cpp" />
+    <ClCompile Include="Warp.cpp" />
+    <ClCompile Include="Wind.cpp" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">
